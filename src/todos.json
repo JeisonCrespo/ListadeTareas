@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "title": "Tarea 1",
+      "responsible": "Jeison",
+      "description": "Estudiar",
+      "priority": "Alta"
+    },
+    {
+      "title": "Tarea 2",
+      "responsible": "Alexander",
+      "description": "Jugar",
+      "priority": "Media"
+    },
+    {
+      "title": "Tarea 2",
+      "responsible": "Drix",
+      "description": "ver anime",
+      "priority": "Baja"
+    }
+  ]
+}
